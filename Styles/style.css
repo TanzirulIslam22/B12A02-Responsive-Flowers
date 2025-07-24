@@ -1286,7 +1286,6 @@
     .footer-list01 {
       width: 100%;
       height: auto;
-      margin-top: -40px;
     }
     .footer-list02 {
       width: 100%;
@@ -1318,7 +1317,6 @@
       height: auto;
     }
 
-    /* Touch-friendly buttons */
     button,
     .plant-buying-button,
     .down-banner-button {
