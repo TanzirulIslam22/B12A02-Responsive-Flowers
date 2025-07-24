@@ -187,15 +187,48 @@
   padding: 18px 49.5px;
 }
 
-.flower{
+/* flower section */
+.flower {
   display: flex;
-  justify-content: center;
-  border: 2px solid brown;
-  margin: auto;
+  justify-content: space-between;
+  align-items: center;
+  margin: 210px auto;
   max-width: 1140px;
   height: 597px;
 }
 
-.
-@media screen and(max-width:576px) {
+.flower-store-image {
+  width: 540px;
+  height: 597px;
+}
+
+.flower-image-wrapper {
+  position: relative;
+  width: 540px;
+}
+/* badge */
+.badge {
+  position: absolute;
+  width: 286px;
+  height: 286px;
+  top: -122px;
+  left: 360px;
+  z-index: 10;
+}
+.flower-details {
+  width: 540px;
+  height: 521px;
+}
+
+.flower-title {
+  font-size: 3.55em;
+}
+
+.flower-description {
+  margin-top: 20px;
+  font-size: 1.3em;
+  font-weight: 400;
+}
+
+. @media screen and(max-width:576px) {
 }
