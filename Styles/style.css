@@ -1185,7 +1185,7 @@
 
     .zabo-button {
       font-size: 1.5em;
-      padding: 8px 5px;
+      margin-top: -10px;
       white-space: nowrap;
     }
 
