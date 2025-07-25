@@ -1283,7 +1283,8 @@
       margin-bottom: 10px;
     }
 
-    .footer-list01, .footer-list02 {
+    .footer-list01,
+    .footer-list02 {
       width: 100%;
       height: auto;
     }
@@ -1307,7 +1308,6 @@
       line-height: 1.5;
     }
 
-    /*for  ensuring that images don't overflow */
     img {
       max-width: 100%;
       height: auto;
