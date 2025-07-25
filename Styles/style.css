@@ -1172,7 +1172,7 @@
       transform: translate(-50%, -50%);
       width: 90%;
       text-align: center;
-      font-size: 0.9em;
+      font-size: 0.6em;
       padding: 10px;
       box-sizing: border-box;
     }
@@ -1184,8 +1184,8 @@
     }
 
     .zabo-button {
-      font-size: 1.2em;
-      padding: 8px 16px;
+      font-size: 1.5em;
+      padding: 8px 5px;
       white-space: nowrap;
     }
 
@@ -1216,13 +1216,13 @@
     }
 
     .down-banner-details {
-      width: 90%;
+      width: max-content;
       height: auto;
       padding: 20px;
     }
 
     .down-banner-title {
-      font-size: 2.2em;
+      font-size: 1.4em;
       line-height: 1.2;
     }
 
@@ -1283,11 +1283,7 @@
       margin-bottom: 10px;
     }
 
-    .footer-list01 {
-      width: 100%;
-      height: auto;
-    }
-    .footer-list02 {
+    .footer-list01, .footer-list02 {
       width: 100%;
       height: auto;
     }
